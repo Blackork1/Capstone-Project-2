@@ -1,0 +1,49 @@
+.background-image {
+  background-image: url("./Images/pexels-bri-schneiter-28802-346529.jpeg");
+  background-size: cover;
+  width: 100%;
+}
+.profile-img {
+  height: 60px;
+  border-radius: 10px;
+  border-radius: 10px;
+  opacity: 20%;}
+.profile-img2{
+    height: 150px;
+    opacity: 70%;
+}
+
+.animal{
+    border-radius: 50%;
+    width: 150px;
+}
+
+.b-color {
+  background-color: #bbbbc277;
+}
+
+.h1-style {
+    font-style: serif;
+    font-weight: bold;
+}
+
+.noto-serif{
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  color: #0095ff;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.nunito-sans{
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: 800px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+  }
